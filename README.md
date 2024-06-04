@@ -13,6 +13,7 @@
 ### Photos - app, where images and tags for filter them, also pagination. Images and tags we get from api.
 
 ### Quiz - classic quiz with 3 questions. 
+#### Link: 
 
 #### In all apps was used most popular methods in React, in some apps was created or using some function like: 
 ##### Search and filters
